@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a26fd852.chunk.css",
+    "main.js": "/static/js/main.df45a2ea.chunk.js",
+    "main.js.map": "/static/js/main.df45a2ea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a0fc4cb9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a0fc4cb9.js.map",
+    "static/js/2.616c91b6.chunk.js": "/static/js/2.616c91b6.chunk.js",
+    "static/js/2.616c91b6.chunk.js.map": "/static/js/2.616c91b6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a26fd852.chunk.css.map": "/static/css/main.a26fd852.chunk.css.map",
+    "static/js/2.616c91b6.chunk.js.LICENSE.txt": "/static/js/2.616c91b6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Oswald-Regular.61b8c47b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0fc4cb9.js",
+    "static/js/2.616c91b6.chunk.js",
+    "static/css/main.a26fd852.chunk.css",
+    "static/js/main.df45a2ea.chunk.js"
+  ]
+}
